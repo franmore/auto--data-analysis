@@ -45,7 +45,7 @@
 ## Conclusion
 Important variables to take into account when predicting the car price : 
 
-Continuous numerical variables:
+<b>Continuous numerical variables:</b>
 <ul>
     <li>Length</li>
     <li>Width</li>
@@ -58,7 +58,7 @@ Continuous numerical variables:
     <li>Bore</li>
 </ul>
 
-Categorical variables:
+<b>Categorical variables:</b>
 <ul>
     <li>Drive-wheels</li>
 </ul>
