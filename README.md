@@ -32,3 +32,6 @@
 </ul>
 </div>
 
+## Extract of the dataset
+![auto-dataset-extract](auto-dataset-extract.png)
+
