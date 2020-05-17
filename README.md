@@ -33,7 +33,7 @@
 </div>
 
 ## Extract of the dataset
-![auto-dataset-extract](auto-dataset-extract.png)
+![auto-dataset-extract](Snapshots/auto-dataset-extract.png)
 
 ## Snapshots of the study
 ![horse_power_bins](Snapshots/horse_power_bins.png)
