@@ -1,4 +1,9 @@
-<div class="alert alert-block alert-info" style="margin-top: 20px">
+![logo Cognitive Class](cc-logo-square.png)
+
+# Automobile Data Analysis
+(as part of the Data Science Certification Program from IBM Cognitive Class)
+
+## Table of Contents
 <ul>
     <li>Data Acquisition</li>
     <li>Data Wrangling
@@ -26,4 +31,4 @@
         </ul>
 </ul>
 </div>
-<hr>
+
