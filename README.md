@@ -35,3 +35,29 @@
 ## Extract of the dataset
 ![auto-dataset-extract](auto-dataset-extract.png)
 
+## Snapshots of the study
+![horse_power_bins](snapshot/horse_power_bins.png)
+![engine-vs-size](snapshot/engine-vs-size.png)
+![engine-location-vs-price](snapshot/engine-location-vs-price.png)
+![drive-wheels-vs-price](snapshot/drive-wheels-vs-price.png)
+![heatmap_body-vs-drive-wheels](snapshot/heatmap_body-vs-drive-wheels.png)
+
+## Conclusion
+Important variables to take into account when predicting the car price : 
+### Continuous numerical variables:
+<ul>
+    <li>Length</li>
+    <li>Width</li>
+    <li>Curb-weight</li>
+    <li>Engine-size</li>
+    <li>Horsepower</li>
+    <li>City-mpg</li>
+    <li>Highway-mpg</li>
+    <li>Wheel-base</li>
+    <li>Bore</li>
+</ul>
+### Categorical variables:
+<ul>
+    <li>Drive-wheels</li>
+</ul>
+
